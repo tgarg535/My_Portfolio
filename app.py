@@ -2,6 +2,7 @@ from flask import Flask, render_template, send_from_directory, request, redirect
 import smtplib
 from email.mime.text import MIMEText
 import secrets
+import os
 
 app = Flask(__name__, static_folder='assets', template_folder='templates')
 app.secret_key = 'your_generated_secret_key_here'
@@ -29,9 +30,9 @@ def contact():
     message = request.form.get('contact_message')
 
     # Email setup
-    sender = 'tanushgarg26jul@gmail.com'
-    receiver = 'tanushgarg26jul@gmail.com'
-    password = 'wtwz tonh uvpi cpvg'
+    sender = os.getenv("EMAIL_USER")
+    receiver = os.getenv("EMAIL_RECEIVER")
+    password = os.getenv("EMAIL_PASS")
 
     subject = f"New Contact Message from {name}"
     body = f"Name: {name}\nEmail: {email}\nMessage:\n{message}"
