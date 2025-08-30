@@ -1,0 +1,35 @@
+[
+  {
+    "title": "AI Chatbot",
+    "description": "Chatbot using NLP & ML models for Q&A.",
+    "image": "assets/imgs/project1.png",
+    "github": "https://github.com/tgarg535/ai-chatbot",
+    "demo": "https://tgarg535.github.io/ai-chatbot",
+    "tags": ["Python", "ML", "NLP"]
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "Responsive site showcasing my projects.",
+    "image": "assets/imgs/project2.png",
+    "github": "https://github.com/tgarg535/portfolio",
+    "demo": "https://tgarg535.github.io/portfolio",
+    "tags": ["HTML", "CSS", "Bootstrap", "JS"]
+  },
+  {
+    "title": "Sales Data Analysis",
+    "description": "Analyzing & visualizing sales data trends.",
+    "image": "assets/imgs/project3.png",
+    "github": "https://github.com/tgarg535/sales-analysis",
+    "demo": "https://tgarg535.github.io/sales-analysis",
+    "tags": ["Python", "Pandas", "Matplotlib", "Data Science"]
+  },
+  {
+    "title": "Godot Adventure",
+    "description": "2D adventure game built with Godot Engine.",
+    "image": "assets/imgs/project4.png",
+    "github": "https://tgarg535.itch.io/go-adventure",
+    "demo": "https://tgarg535.itch.io/go-adventure",
+    "tags": ["Godot", "Game Development"]
+  }
+  
+]
