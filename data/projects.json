@@ -1,27 +1,19 @@
 [
   {
-    "title": "AI Chatbot",
-    "description": "Chatbot using NLP & ML models for Q&A.",
-    "image": "assets/imgs/project1.png",
-    "github": "https://github.com/tgarg535/ai-chatbot",
-    "demo": "https://tgarg535.github.io/ai-chatbot",
-    "tags": ["Python", "ML", "NLP"]
+    "title": "Climate Visibility Predictor",
+    "description": "Predicting atmospheric visibility based on climatic conditions using machine learning and real-time environmental data.",
+    "image": "assets/imgs/climate.png",
+    "github": "https://github.com/tgarg535/Climate-Visibility-Project",
+    "demo": "https://climate-visibility-project.onrender.com",
+    "tags": ["Python", "Machine Learning", "Climate", "Environment", "Data Science", "Prediction"]
   },
   {
-    "title": "Portfolio Website",
-    "description": "Responsive site showcasing my projects.",
-    "image": "assets/imgs/project2.png",
-    "github": "https://github.com/tgarg535/portfolio",
-    "demo": "https://tgarg535.github.io/portfolio",
-    "tags": ["HTML", "CSS", "Bootstrap", "JS"]
-  },
-  {
-    "title": "Sales Data Analysis",
-    "description": "Analyzing & visualizing sales data trends.",
-    "image": "assets/imgs/project3.png",
-    "github": "https://github.com/tgarg535/sales-analysis",
-    "demo": "https://tgarg535.github.io/sales-analysis",
-    "tags": ["Python", "Pandas", "Matplotlib", "Data Science"]
+    "title": "Dhan-Laabh",
+    "description": "Real-time stock prediction and market sentiment analysis using advanced machine learning and NLP techniques.",
+    "image": "assets/imgs/dhan-laabh.png",
+    "github": "https://github.com/tgarg535/Dhan-Laabh",
+    "demo": "https://dhan-laabh.onrender.com",
+    "tags": ["Python", "Deep Learning", "NLP", "Finance", "Sentiment Analysis", "Real-Time"]
   },
   {
     "title": "Godot Adventure",
@@ -30,6 +22,22 @@
     "github": "https://tgarg535.itch.io/go-adventure",
     "demo": "https://tgarg535.itch.io/go-adventure",
     "tags": ["Godot", "Game Development"]
+  },
+  {
+  "title": "Movie Review Sentiment Analyzer",
+  "description": "Analyzes movie reviews to predict viewer sentiment using natural language processing and classification models.",
+  "image": "assets/imgs/movie.png",
+  "github": "https://github.com/tgarg535/Movie-Review-Analysis",
+  "demo": "https://github.com/tgarg535/Movie-Review-Analysis",
+  "tags": ["Python", "NLP", "Sentiment Analysis", "Machine Learning", "Text Classification"]
+},
+{
+    "title": "Portfolio Website",
+    "description": "Responsive site showcasing my projects.",
+    "image": "assets/imgs/project2.png",
+    "github": "https://github.com/tgarg535/portfolio",
+    "demo": "https://myportfolio-production-e444.up.railway.app/",
+    "tags": ["HTML", "CSS", "Bootstrap", "JS"]
   }
   
 ]
